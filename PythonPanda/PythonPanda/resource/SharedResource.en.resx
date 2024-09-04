@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="nan" xml:space="preserve">
+    <value>nan</value>
+  </data>
+  <data name="AutomatedWarehouse" xml:space="preserve">
+    <value>AutomatedWarehouse</value>
+  </data>
+  <data name="CardReaderNotConnected" xml:space="preserve">
+    <value>CardReaderNotConnected</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="Cleared" xml:space="preserve">
+    <value>Cleared</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="InsertCardMessage" xml:space="preserve">
+    <value>InsertCardMessage</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Location</value>
+  </data>
+  <data name="LoginButton" xml:space="preserve">
+    <value>LoginButton</value>
+  </data>
+  <data name="RecordsSuffix" xml:space="preserve">
+    <value>RecordsSuffix</value>
+  </data>
+  <data name="Registered" xml:space="preserve">
+    <value>Registered</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>SearchResults</value>
+  </data>
+  <data name="ShelfRestriction" xml:space="preserve">
+    <value>ShelfRestriction</value>
+  </data>
+  <data name="nan" xml:space="preserve">
+    <value>nan</value>
+  </data>
+  <data name="LoginScreenTitle" xml:space="preserve">
+    <value>LoginScreenTitle</value>
+  </data>
+  <data name="linkwcsLabel" xml:space="preserve">
+    <value>Link-WCS</value>
+  </data>
+  <data name="UserIDLabel" xml:space="preserve">
+    <value>UserID</value>
+  </data>
+  <data name="LoginButton" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="CardRead" xml:space="preserve">
+    <value>CardRead</value>
+  </data>
+  <data name="MainViewTitle" xml:space="preserve">
+    <value>MainView</value>
+  </data>
+  <data name="AutomatedWarehouse" xml:space="preserve">
+    <value>AutomatedWarehouse</value>
+  </data>
+  <data name="Inquiry" xml:space="preserve">
+    <value>Inquiry</value>
+  </data>
+  <data name="History" xml:space="preserve">
+    <value>History</value>
+  </data>
+  <data name="Parameter" xml:space="preserve">
+    <value>Parameter</value>
+  </data>
+  <data name="Manager" xml:space="preserve">
+    <value>Manager</value>
+  </data>
+  <data name="LoginId" xml:space="preserve">
+    <value>LoginId</value>
+  </data>
+  <data name="LogOffButton" xml:space="preserve">
+    <value>LogOffButton</value>
+  </data>
+  <data name="ShelfErrorSetting" xml:space="preserve">
+    <value>ShelfErrorSetting</value>
+  </data>
+  <data name="ShelfStatus" xml:space="preserve">
+    <value>ShelfStatus</value>
+  </data>
+  <data name="CraneTransport" xml:space="preserve">
+    <value>CraneTransport</value>
+  </data>
+  <data name="CraneManual" xml:space="preserve">
+    <value>CraneManual</value>
+  </data>
+  <data name="CraneOperation" xml:space="preserve">
+    <value>CraneOperation</value>
+  </data>
+  <data name="AgingProcessShelf" xml:space="preserve">
+    <value>AgingProcessShelf</value>
+  </data>
+  <data name="TransportData" xml:space="preserve">
+    <value>TransportData</value>
+  </data>
+  <data name="BCRErrorNumber" xml:space="preserve">
+    <value>BCRErrorNumber</value>
+  </data>
+  <data name="OperationLog" xml:space="preserve">
+    <value>OperationLog</value>
+  </data>
+  <data name="EquipmentStatusInquiry" xml:space="preserve">
+    <value>EquipmentStatusInquiry</value>
+  </data>
+  <data name="StackingLot" xml:space="preserve">
+    <value>StackingLot</value>
+  </data>
+  <data name="DataInTransit" xml:space="preserve">
+    <value>DataInTransit</value>
+  </data>
+  <data name="UpperCommunication" xml:space="preserve">
+    <value>UpperCommunication</value>
+  </data>
+  <data name="MaintenanceHistory" xml:space="preserve">
+    <value>MaintenanceHistory</value>
+  </data>
+  <data name="TransportationHistory" xml:space="preserve">
+    <value>TransportationHistory</value>
+  </data>
+  <data name="RobotInstructions" xml:space="preserve">
+    <value>RobotInstructions</value>
+  </data>
+  <data name="EquipmentError" xml:space="preserve">
+    <value>EquipmentError</value>
+  </data>
+  <data name="ChargingDischargingTimer" xml:space="preserve">
+    <value>ChargingDischargingTimer</value>
+  </data>
+  <data name="StackingDeviceTimer" xml:space="preserve">
+    <value>StackingDeviceTimer</value>
+  </data>
+  <data name="TransportPort" xml:space="preserve">
+    <value>TransportPort</value>
+  </data>
+  <data name="DailyProcessingUpdate" xml:space="preserve">
+    <value>DailyProcessingUpdate</value>
+  </data>
+  <data name="NoLeadDischarge" xml:space="preserve">
+    <value>NoLeadDischarge</value>
+  </data>
+  <data name="HighTemperatureArea" xml:space="preserve">
+    <value>HighTemperatureArea</value>
+  </data>
+  <data name="PLCcommunication" xml:space="preserve">
+    <value>PLCcommunication</value>
+  </data>
+  <data name="TransportationNumber" xml:space="preserve">
+    <value>TransportationNumber</value>
+  </data>
+  <data name="ShelfRestriction" xml:space="preserve">
+    <value>ShelfRestriction</value>
+  </data>
+  <data name="SearchConditions" xml:space="preserve">
+    <value>SearchConditions</value>
+  </data>
+  <data name="Area" xml:space="preserve">
+    <value>Area</value>
+  </data>
+  <data name="ProhibitedCategory" xml:space="preserve">
+    <value>ProhibitedCategory</value>
+  </data>
+  <data name="Line" xml:space="preserve">
+    <value>Line</value>
+  </data>
+  <data name="AbnormalCategory" xml:space="preserve">
+    <value>AbnormalCategory</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Location</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>SearchResults</value>
+  </data>
+  <data name="Number" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="AllSelect" xml:space="preserve">
+    <value>AllSelect</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Location</value>
+  </data>
+  <data name="ProhibitedCategory" xml:space="preserve">
+    <value>ProhibitedCategory</value>
+  </data>
+  <data name="AbnormalCategory" xml:space="preserve">
+    <value>AbnormalCategory</value>
+  </data>
+  <data name="Reason" xml:space="preserve">
+    <value>Reason (prohibited/abnormal)</value>
+  </data>
+  <data name="NothingDataMessage" xml:space="preserve">
+    <value>NothingDataMessage</value>
+  </data>
+  <data name="ProhibitLiftedButton" xml:space="preserve">
+    <value>ProhibitLiftedButton</value>
+  </data>
+  <data name="UnusualReleaseButton" xml:space="preserve">
+    <value>UnusualReleaseButton</value>
+  </data>
+  <data name="ProhibitRegistrationButton" xml:space="preserve">
+    <value>ProhibitRegistrationButton</value>
+  </data>
+  <data name="Cleared" xml:space="preserve">
+    <value>Cleared</value>
+  </data>
+  <data name="Registration" xml:space="preserve">
+    <value>Registration</value>
+  </data>
+  <data name="Area" xml:space="preserve">
+    <value>Area</value>
+  </data>
+  <data name="Line" xml:space="preserve">
+    <value>Line</value>
+  </data>
+  <data name="ProhibitReason" xml:space="preserve">
+    <value>ProhibitReason</value>
+  </data>
+  <data name="Registration" xml:space="preserve">
+    <value>Registration</value>
+  </data>
+  <data name="BackButton" xml:space="preserve">
+    <value>BackButton</value>
+  </data>
+  <data name="ShelfStatus" xml:space="preserve">
+    <value>ShelfStatus</value>
+  </data>
+  <data name="HighTemperature" xml:space="preserve">
+    <value>HighTemperature</value>
+  </data>
+  <data name="ChargeDischarge" xml:space="preserve">
+    <value>ChargeDischarge</value>
+  </data>
+  <data name="ＮormalTemperature" xml:space="preserve">
+    <value>ＮormalTemperature</value>
+  </data>
+  <data name="1series" xml:space="preserve">
+    <value>1series</value>
+  </data>
+  <data name="2series" xml:space="preserve">
+    <value>2series</value>
+  </data>
+  <data name="21series" xml:space="preserve">
+    <value>21series</value>
+  </data>
+  <data name="22series" xml:space="preserve">
+    <value>22series</value>
+  </data>
+  <data name="29series" xml:space="preserve">
+    <value>29series</value>
+  </data>
+  <data name="30series" xml:space="preserve">
+    <value>30series</value>
+  </data>
+  <data name="EmptyShelf" xml:space="preserve">
+    <value>EmptyShelf</value>
+  </data>
+  <data name="InventoryShelf" xml:space="preserve">
+    <value>InventoryShelf</value>
+  </data>
+  <data name="EmptyTray" xml:space="preserve">
+    <value>EmptyTray</value>
+  </data>
+  <data name="MissingShelf" xml:space="preserve">
+    <value>MissingShelf</value>
+  </data>
+  <data name="OutboundReservationShelf" xml:space="preserve">
+    <value>OutboundReservationShelf</value>
+  </data>
+  <data name="StockReservationShelf" xml:space="preserve">
+    <value>StockReservationShelf</value>
+  </data>
+  <data name="ProhibitedShelf" xml:space="preserve">
+    <value>ProhibitedShelf</value>
+  </data>
+  <data name="AbnormalShelf" xml:space="preserve">
+    <value>AbnormalShelf</value>
+  </data>
+  <data name="LackLabel" xml:space="preserve">
+    <value>LackLabel</value>
+  </data>
+  <data name="OutLabel" xml:space="preserve">
+    <value>OutLabel</value>
+  </data>
+  <data name="InLabel" xml:space="preserve">
+    <value>InLabel</value>
+  </data>
+  <data name="ForbiddenLabel" xml:space="preserve">
+    <value>ForbiddenLabel</value>
+  </data>
+  <data name="DifferentLabel" xml:space="preserve">
+    <value>DifferentLabel</value>
+  </data>
+  <data name="CraneTransport" xml:space="preserve">
+    <value>CraneTransport</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="CraneLabel" xml:space="preserve">
+    <value>CraneLabel</value>
+  </data>
+  <data name="CurrentIncomingStockLabel" xml:space="preserve">
+    <value>CurrentIncomingStockLabel</value>
+  </data>
+  <data name="CurrentShippingStockLabel" xml:space="preserve">
+    <value>CurrentShippingStockLabel</value>
+  </data>
+  <data name="ChangeIncomingStockLabel" xml:space="preserve">
+    <value>ChangeIncomingStockLabel</value>
+  </data>
+  <data name="ChangeShippingStockLabel" xml:space="preserve">
+    <value>ChangeShippingStockLabel</value>
+  </data>
+  <data name="ＮormalTemperatureAiging" xml:space="preserve">
+    <value>ＮormalTemperatureAiging</value>
+  </data>
+  <data name="ＮormalTemperatureAiging1st" xml:space="preserve">
+    <value>ＮormalTemperatureAiging1st</value>
+  </data>
+  <data name="ＮormalTemperatureAiging2nd" xml:space="preserve">
+    <value>ＮormalTemperatureAiging2nd</value>
+  </data>
+  <data name="ＮormalTemperatureAiging3rd" xml:space="preserve">
+    <value>ＮormalTemperatureAiging3rd</value>
+  </data>
+  <data name="ＮormalTemperatureAiging4th" xml:space="preserve">
+    <value>ＮormalTemperatureAiging4th</value>
+  </data>
+  <data name="ＮormalTemperatureAiging5th" xml:space="preserve">
+    <value>ＮormalTemperatureAiging5th</value>
+  </data>
+  <data name="ＮormalTemperatureAiging6th" xml:space="preserve">
+    <value>ＮormalTemperatureAiging6th</value>
+  </data>
+  <data name="ＮormalTemperatureAiging7th" xml:space="preserve">
+    <value>ＮormalTemperatureAiging7th</value>
+  </data>
+  <data name="ＮormalTemperatureAiging8th" xml:space="preserve">
+    <value>ＮormalTemperatureAiging8th</value>
+  </data>
+  <data name="ＮormalTemperatureAiging9th" xml:space="preserve">
+    <value>ＮormalTemperatureAiging9th</value>
+  </data>
+  <data name="ＮormalTemperatureAiging10th" xml:space="preserve">
+    <value>ＮormalTemperatureAiging10th</value>
+  </data>
+  <data name="HotTemperatureAiging" xml:space="preserve">
+    <value>HotTemperatureAiging</value>
+  </data>
+  <data name="HotTemperatureAiging1st" xml:space="preserve">
+    <value>HotTemperatureAiging1st</value>
+  </data>
+  <data name="HotTemperatureAiging2nd" xml:space="preserve">
+    <value>HotTemperatureAiging2nd</value>
+  </data>
+  <data name="HotTemperatureAiging3rd" xml:space="preserve">
+    <value>HotTemperatureAiging3rd</value>
+  </data>
+  <data name="HotTemperatureAiging4th" xml:space="preserve">
+    <value>HotTemperatureAiging4th</value>
+  </data>
+  <data name="HotTemperatureAiging5th" xml:space="preserve">
+    <value>HotTemperatureAiging5th</value>
+  </data>
+  <data name="HotTemperatureAiging6th" xml:space="preserve">
+    <value>HotTemperatureAiging6th</value>
+  </data>
+  <data name="HotTemperatureAiging7th" xml:space="preserve">
+    <value>HotTemperatureAiging7th</value>
+  </data>
+  <data name="HotTemperatureAiging8th" xml:space="preserve">
+    <value>HotTemperatureAiging8th</value>
+  </data>
+  <data name="ChargeDischargeEquipment" xml:space="preserve">
+    <value>ChargeDischargeEquipment</value>
+  </data>
+  <data name="ChargeDischargeEquipment11" xml:space="preserve">
+    <value>ChargeDischargeEquipment11</value>
+  </data>
+  <data name="ChargeDischargeEquipment12" xml:space="preserve">
+    <value>ChargeDischargeEquipment12</value>
+  </data>
+  <data name="ChargeDischargeEquipment13" xml:space="preserve">
+    <value>ChargeDischargeEquipment13</value>
+  </data>
+  <data name="ChargeDischargeEquipment14" xml:space="preserve">
+    <value>ChargeDischargeEquipment14</value>
+  </data>
+  <data name="ChargeDischargeEquipment21" xml:space="preserve">
+    <value>ChargeDischargeEquipment21</value>
+  </data>
+  <data name="ChargeDischargeEquipment22" xml:space="preserve">
+    <value>ChargeDischargeEquipment22</value>
+  </data>
+  <data name="CraneManual" xml:space="preserve">
+    <value>CraneManual</value>
+  </data>
+  <data name="Lane" xml:space="preserve">
+    <value>Lane</value>
+  </data>
+  <data name="ModeStatus" xml:space="preserve">
+    <value>ModeStatus</value>
+  </data>
+  <data name="Auto" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="Manual" xml:space="preserve">
+    <value>Manual</value>
+  </data>
+  <data name="CurrentModeStatus" xml:space="preserve">
+    <value>CurrentModeStatus</value>
+  </data>
+  <data name="ActionType" xml:space="preserve">
+    <value>ActionType</value>
+  </data>
+  <data name="Move" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>Loading</value>
+  </data>
+  <data name="Unloading" xml:space="preserve">
+    <value>Unloading</value>
+  </data>
+  <data name="FromTo" xml:space="preserve">
+    <value>FromTo</value>
+  </data>
+  <data name="Fork1Label" xml:space="preserve">
+    <value>Fork1Label</value>
+  </data>
+  <data name="FromAddress1" xml:space="preserve">
+    <value>FromAddress1</value>
+  </data>
+  <data name="FromAddress2" xml:space="preserve">
+    <value>FromAddress2</value>
+  </data>
+  <data name="ToAddress1" xml:space="preserve">
+    <value>ToAddress1</value>
+  </data>
+  <data name="ToAddress2" xml:space="preserve">
+    <value>ToAddress2</value>
+  </data>
+  <data name="SelectionTable" xml:space="preserve">
+    <value>SelectionTable</value>
+  </data>
+  <data name="StockingStand" xml:space="preserve">
+    <value>StockingStand</value>
+  </data>
+  <data name="DeliveryStand" xml:space="preserve">
+    <value>DeliveryStand</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="Registration" xml:space="preserve">
+    <value>Registration</value>
+  </data>
+  <data name="Delate" xml:space="preserve">
+    <value>Delate</value>
+  </data>
+  <data name="ModeChangeMessage" xml:space="preserve">
+    <value>ModeChangeMessage</value>
+  </data>
+  <data name="ModeChange" xml:space="preserve">
+    <value>ModeChange</value>
+  </data>
+  <data name="OKButton" xml:space="preserve">
+    <value>OKButton</value>
+  </data>
+  <data name="ShelfStatusSelectorViewTitle" xml:space="preserve">
+    <value>ShelfStatusSelectorViewTitle</value>
+  </data>
+  <data name="Area" xml:space="preserve">
+    <value>Area</value>
+  </data>
+  <data name="HighTemperature" xml:space="preserve">
+    <value>HighTemperature</value>
+  </data>
+  <data name="Lane" xml:space="preserve">
+    <value>Lane</value>
+  </data>
+  <data name="ShelfBin" xml:space="preserve">
+    <value>ShelfBin</value>
+  </data>
+  <data name="CationHeaderMessage" xml:space="preserve">
+    <value>CationHeaderMessage</value>
+  </data>
+  <data name="3series" xml:space="preserve">
+    <value>3series</value>
+  </data>
+  <data name="4series" xml:space="preserve">
+    <value>4series</value>
+  </data>
+  <data name="Lane" xml:space="preserve">
+    <value>Lane</value>
+  </data>
+  <data name="ModeStatus" xml:space="preserve">
+    <value>ModeStatus</value>
+  </data>
+  <data name="Auto" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="Manual" xml:space="preserve">
+    <value>Manual</value>
+  </data>
+  <data name="ModeChange" xml:space="preserve">
+    <value>ModeChange</value>
+  </data>
+  <data name="CurrentModeStatus" xml:space="preserve">
+    <value>CurrentModeStatus</value>
+  </data>
+  <data name="ActionType" xml:space="preserve">
+    <value>ActionType</value>
+  </data>
+  <data name="ForkType" xml:space="preserve">
+    <value>ForkType</value>
+  </data>
+  <data name="Fork1to2" xml:space="preserve">
+    <value>Fork1to3</value>
+  </data>
+  <data name="Fork1" xml:space="preserve">
+    <value>Fork1</value>
+  </data>
+  <data name="Fork2" xml:space="preserve">
+    <value>Fork2</value>
+  </data>
+  <data name="Fork1Label" xml:space="preserve">
+    <value>Fork1Label</value>
+  </data>
+  <data name="Fork2Label" xml:space="preserve">
+    <value>Fork2Label</value>
+  </data>
+  <data name="FromAddress" xml:space="preserve">
+    <value>FromAddress</value>
+  </data>
+  <data name="ToAddress" xml:space="preserve">
+    <value>ToAddress</value>
+  </data>
+  <data name="NotSelectMessage" xml:space="preserve">
+    <value>NotSelectMessage</value>
+  </data>
+  <data name="Area" xml:space="preserve">
+    <value>Area</value>
+  </data>
+  <data name="ChargeDischarge" xml:space="preserve">
+    <value>ChargeDischarge</value>
+  </data>
+  <data name="Lane" xml:space="preserve">
+    <value>Lane</value>
+  </data>
+  <data name="ShelfBin" xml:space="preserve">
+    <value>ShelfBin</value>
+  </data>
+  <data name="21series" xml:space="preserve">
+    <value>21series</value>
+  </data>
+  <data name="22series" xml:space="preserve">
+    <value>22series</value>
+  </data>
+  <data name="CannotSelecteMessage" xml:space="preserve">
+    <value>CannotSelecteMessage</value>
+  </data>
+  <data name="Lane" xml:space="preserve">
+    <value>Lane</value>
+  </data>
+  <data name="ModeStatus" xml:space="preserve">
+    <value>ModeStatus</value>
+  </data>
+  <data name="Auto" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="Manual" xml:space="preserve">
+    <value>Manual</value>
+  </data>
+  <data name="ModeChange" xml:space="preserve">
+    <value>ModeChange</value>
+  </data>
+  <data name="CurrentModeStatus" xml:space="preserve">
+    <value>CurrentModeStatus</value>
+  </data>
+  <data name="ActionType" xml:space="preserve">
+    <value>ActionType</value>
+  </data>
+  <data name="29series" xml:space="preserve">
+    <value>29series</value>
+  </data>
+  <data name="30series" xml:space="preserve">
+    <value>30series</value>
+  </data>
+  <data name="SearchConditions" xml:space="preserve">
+    <value>SearchConditions</value>
+  </data>
+  <data name="WorkingDays" xml:space="preserve">
+    <value>WorkingDays</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="ClaneNumber" xml:space="preserve">
+    <value>ClaneNumber</value>
+  </data>
+  <data name="ReceivingStockNumber" xml:space="preserve">
+    <value>ReceivingStockNumber</value>
+  </data>
+  <data name="DeliveryStockNumber" xml:space="preserve">
+    <value>DeliveryStockNumber</value>
+  </data>
+  <data name="ExchangesNumber" xml:space="preserve">
+    <value>ExchangesNumber</value>
+  </data>
+  <data name="NothingDataMessage" xml:space="preserve">
+    <value>NothingDataMessage</value>
+  </data>
+  <data name="AgingProcessShelf" xml:space="preserve">
+    <value>AgingProcessShelf</value>
+  </data>
+  <data name="Area" xml:space="preserve">
+    <value>Area</value>
+  </data>
+  <data name="Line" xml:space="preserve">
+    <value>Line</value>
+  </data>
+  <data name="ShelfCondition" xml:space="preserve">
+    <value>ShelfCondition</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Location</value>
+  </data>
+  <data name="MainTrayNumber" xml:space="preserve">
+    <value>MainTrayNumber</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>SearchResults</value>
+  </data>
+  <data name="EmptyShelf" xml:space="preserve">
+    <value>EmptyShelf</value>
+  </data>
+  <data name="InventoryShelf" xml:space="preserve">
+    <value>InventoryShelf</value>
+  </data>
+  <data name="StockReservation" xml:space="preserve">
+    <value>StockReservation</value>
+  </data>
+  <data name="OutboundReservation" xml:space="preserve">
+    <value>OutboundReservation</value>
+  </data>
+  <data name="MissingShelf" xml:space="preserve">
+    <value>MissingShelf</value>
+  </data>
+  <data name="Number" xml:space="preserve">
+    <value>Number</value>
+  </data>
+  <data name="DetailedDisplay" xml:space="preserve">
+    <value>DetailedDisplay</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Location</value>
+  </data>
+  <data name="ShelfCondition" xml:space="preserve">
+    <value>ShelfCondition</value>
+  </data>
+  <data name="FrontTrayNumber" xml:space="preserve">
+    <value>FrontTrayNumber</value>
+  </data>
+  <data name="BackTrayNumber" xml:space="preserve">
+    <value>BackTrayNumber</value>
+  </data>
+  <data name="AssemblyLot" xml:space="preserve">
+    <value>AssemblyLot</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="NothingDataMessage" xml:space="preserve">
+    <value>NothingDataMessage</value>
+  </data>
+  <data name="SearchConditions" xml:space="preserve">
+    <value>SearchConditions</value>
+  </data>
+  <data name="Area" xml:space="preserve">
+    <value>Area</value>
+  </data>
+  <data name="TrayNumber" xml:space="preserve">
+    <value>TrayNumber</value>
+  </data>
+  <data name="TrayNumber2" xml:space="preserve">
+    <value>TrayNumber3</value>
+  </data>
+  <data name="PointNumber" xml:space="preserve">
+    <value>PointNumber</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="Mentenance" xml:space="preserve">
+    <value>Mentenance</value>
+  </data>
+  <data name="Manager" xml:space="preserve">
+    <value>Manager</value>
+  </data>
+  <data name="TrayNumber" xml:space="preserve">
+    <value>TrayNumber</value>
+  </data>
+  <data name="TrayNumber2" xml:space="preserve">
+    <value>TrayNumber3</value>
+  </data>
+  <data name="InOutClassification" xml:space="preserve">
+    <value>InOutClassification</value>
+  </data>
+  <data name="PointNumber" xml:space="preserve">
+    <value>PointNumber</value>
+  </data>
+  <data name="TransportSource" xml:space="preserve">
+    <value>TransportSource</value>
+  </data>
+  <data name="TransportDestination" xml:space="preserve">
+    <value>TransportDestination</value>
+  </data>
+  <data name="DeviceTransportSource" xml:space="preserve">
+    <value>DeviceTransportSource</value>
+  </data>
+  <data name="DeviceTransportDestination" xml:space="preserve">
+    <value>DeviceTransportDestination</value>
+  </data>
+  <data name="DeviceTransportSource2" xml:space="preserve">
+    <value>DeviceTransportSource3</value>
+  </data>
+  <data name="DeviceTransportDestination2" xml:space="preserve">
+    <value>DeviceTransportDestination3</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="UpdateDateAndTime" xml:space="preserve">
+    <value>UpdateDateAndTime</value>
+  </data>
+  <data name="SearchConditions" xml:space="preserve">
+    <value>SearchConditions</value>
+  </data>
+  <data name="DateAndTime" xml:space="preserve">
+    <value>DateAndTime</value>
+  </data>
+  <data name="BCRNumber" xml:space="preserve">
+    <value>BCRNumber</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>SearchResults</value>
+  </data>
+  <data name="Number" xml:space="preserve">
+    <value>Number</value>
+  </data>
+  <data name="DetailedDisplay" xml:space="preserve">
+    <value>DetailedDisplay</value>
+  </data>
+  <data name="AbnormalNumber" xml:space="preserve">
+    <value>AbnormalNumber</value>
+  </data>
+  <data name="SearchConditions" xml:space="preserve">
+    <value>SearchConditions</value>
+  </data>
+  <data name="OperationDate" xml:space="preserve">
+    <value>OperationDate</value>
+  </data>
+  <data name="OperationScreen" xml:space="preserve">
+    <value>OperationScreen</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="Tilde" xml:space="preserve">
+    <value>Tilde</value>
+  </data>
+  <data name="OperationDate" xml:space="preserve">
+    <value>OperationDate</value>
+  </data>
+  <data name="DeviceID" xml:space="preserve">
+    <value>DeviceID</value>
+  </data>
+  <data name="UserID" xml:space="preserve">
+    <value>UserID</value>
+  </data>
+  <data name="OperationScreen" xml:space="preserve">
+    <value>OperationScreen</value>
+  </data>
+  <data name="OperationContent" xml:space="preserve">
+    <value>OperationContent</value>
+  </data>
+  <data name="Detail" xml:space="preserve">
+    <value>Detail</value>
+  </data>
+  <data name="Monitor" xml:space="preserve">
+    <value>Monitor</value>
+  </data>
+  <data name="DetailedDisplay" xml:space="preserve">
+    <value>DetailedDisplay</value>
+  </data>
+  <data name="WCSEquipmentNumber" xml:space="preserve">
+    <value>WCSEquipmentNumber</value>
+  </data>
+  <data name="EquipmentName1" xml:space="preserve">
+    <value>EquipmentName2</value>
+  </data>
+  <data name="EquipmentStatus" xml:space="preserve">
+    <value>EquipmentStatus</value>
+  </data>
+  <data name="EquipmentStatusDetails" xml:space="preserve">
+    <value>EquipmentStatusDetails</value>
+  </data>
+  <data name="EquipmentName1" xml:space="preserve">
+    <value>EquipmentName2</value>
+  </data>
+  <data name="QRDisplay" xml:space="preserve">
+    <value>QRDisplay</value>
+  </data>
+  <data name="OccurrenceDay" xml:space="preserve">
+    <value>OccurrenceDay</value>
+  </data>
+  <data name="AbnormalCode" xml:space="preserve">
+    <value>AbnormalCode</value>
+  </data>
+  <data name="AbnormalContent" xml:space="preserve">
+    <value>AbnormalContent</value>
+  </data>
+  <data name="BackButton" xml:space="preserve">
+    <value>BackButton</value>
+  </data>
+  <data name="Line" xml:space="preserve">
+    <value>Line</value>
+  </data>
+  <data name="EmptyShelvesNumber" xml:space="preserve">
+    <value>EmptyShelvesNumber</value>
+  </data>
+  <data name="StockShelves" xml:space="preserve">
+    <value>StockShelves</value>
+  </data>
+  <data name="ProhibitedShelvesNumber" xml:space="preserve">
+    <value>ProhibitedShelvesNumber</value>
+  </data>
+  <data name="AbnormalShelvesNumber" xml:space="preserve">
+    <value>AbnormalShelvesNumber</value>
+  </data>
+  <data name="OccupancyRate" xml:space="preserve">
+    <value>OccupancyRate</value>
+  </data>
+  <data name="SearchConditions" xml:space="preserve">
+    <value>SearchConditions</value>
+  </data>
+  <data name="Area" xml:space="preserve">
+    <value>Area</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>SearchResults</value>
+  </data>
+  <data name="Prohibit" xml:space="preserve">
+    <value>Prohibit</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="EquipmentName" xml:space="preserve">
+    <value>EquipmentName</value>
+  </data>
+  <data name="State" xml:space="preserve">
+    <value>State</value>
+  </data>
+  <data name="AssemblyLot" xml:space="preserve">
+    <value>AssemblyLot</value>
+  </data>
+  <data name="ByModel" xml:space="preserve">
+    <value>ByModel</value>
+  </data>
+  <data name="VarietySection" xml:space="preserve">
+    <value>VarietySection</value>
+  </data>
+  <data name="TransportsNumber" xml:space="preserve">
+    <value>TransportsNumber</value>
+  </data>
+  <data name="StackingDateAndTime" xml:space="preserve">
+    <value>StackingDateAndTime</value>
+  </data>
+  <data name="UpdateDateAndTime" xml:space="preserve">
+    <value>UpdateDateAndTime</value>
+  </data>
+  <data name="Caveat" xml:space="preserve">
+    <value>Caveat</value>
+  </data>
+  <data name="NotProhibitedMessage" xml:space="preserve">
+    <value>NotProhibitedMessage</value>
+  </data>
+  <data name="Question" xml:space="preserve">
+    <value>Question</value>
+  </data>
+  <data name="InitializationStackingDataMessage" xml:space="preserve">
+    <value>InitializationStackingDataMessage</value>
+  </data>
+  <data name="YesButton" xml:space="preserve">
+    <value>YesButton</value>
+  </data>
+  <data name="NoButton" xml:space="preserve">
+    <value>NoButton</value>
+  </data>
+  <data name="nan" xml:space="preserve">
+    <value>nan</value>
+  </data>
+  <data name="SearchConditions" xml:space="preserve">
+    <value>SearchConditions</value>
+  </data>
+  <data name="SendingAndReceivingClassification" xml:space="preserve">
+    <value>SendingAndReceivingClassification</value>
+  </data>
+  <data name="Send" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="Reception" xml:space="preserve">
+    <value>Reception</value>
+  </data>
+  <data name="DeliveryDate" xml:space="preserve">
+    <value>DeliveryDate</value>
+  </data>
+  <data name="SendData" xml:space="preserve">
+    <value>SendData</value>
+  </data>
+  <data name="ProcessingStatus" xml:space="preserve">
+    <value>ProcessingStatus</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="SentDate" xml:space="preserve">
+    <value>SentDate</value>
+  </data>
+  <data name="ReceiptData" xml:space="preserve">
+    <value>ReceiptData</value>
+  </data>
+  <data name="InstructionsNumber" xml:space="preserve">
+    <value>InstructionsNumber</value>
+  </data>
+  <data name="ProcessingStatus" xml:space="preserve">
+    <value>ProcessingStatus</value>
+  </data>
+  <data name="ErrorMessage" xml:space="preserve">
+    <value>ErrorMessage</value>
+  </data>
+  <data name="RecodeData" xml:space="preserve">
+    <value>RecodeData</value>
+  </data>
+  <data name="WaitingTransmission" xml:space="preserve">
+    <value>WaitingTransmission</value>
+  </data>
+  <data name="CompletedTransmission" xml:space="preserve">
+    <value>CompletedTransmission</value>
+  </data>
+  <data name="CompletedDeployment" xml:space="preserve">
+    <value>CompletedDeployment</value>
+  </data>
+  <data name="WaitingProcessing" xml:space="preserve">
+    <value>WaitingProcessing</value>
+  </data>
+  <data name="Unexpanded" xml:space="preserve">
+    <value>Unexpanded</value>
+  </data>
+  <data name="NonSelect" xml:space="preserve">
+    <value>NonSelect</value>
+  </data>
+  <data name="NonSelectSendDataMessage" xml:space="preserve">
+    <value>NonSelectSendDataMessage</value>
+  </data>
+  <data name="NonSelectReciveDataMessage" xml:space="preserve">
+    <value>NonSelectReciveDataMessage</value>
+  </data>
+  <data name="MaintenanceHistory" xml:space="preserve">
+    <value>MaintenanceHistory</value>
+  </data>
+  <data name="Area" xml:space="preserve">
+    <value>Area</value>
+  </data>
+  <data name="Section" xml:space="preserve">
+    <value>Section</value>
+  </data>
+  <data name="AbnormalName" xml:space="preserve">
+    <value>AbnormalName</value>
+  </data>
+  <data name="WorkDetails" xml:space="preserve">
+    <value>WorkDetails</value>
+  </data>
+  <data name="DateAndTime" xml:space="preserve">
+    <value>DateAndTime</value>
+  </data>
+  <data name="Section" xml:space="preserve">
+    <value>Section</value>
+  </data>
+  <data name="Author" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="AbnormalName" xml:space="preserve">
+    <value>AbnormalName</value>
+  </data>
+  <data name="WorkDetails" xml:space="preserve">
+    <value>WorkDetails</value>
+  </data>
+  <data name="Remarks" xml:space="preserve">
+    <value>Remarks</value>
+  </data>
+  <data name="TrayNumber" xml:space="preserve">
+    <value>TrayNumber</value>
+  </data>
+  <data name="DeliveryDate" xml:space="preserve">
+    <value>DeliveryDate</value>
+  </data>
+  <data name="InstructionsNumber" xml:space="preserve">
+    <value>InstructionsNumber</value>
+  </data>
+  <data name="TransportClassification" xml:space="preserve">
+    <value>TransportClassification</value>
+  </data>
+  <data name="DeliveryDate" xml:space="preserve">
+    <value>DeliveryDate</value>
+  </data>
+  <data name="TransportSourceSection" xml:space="preserve">
+    <value>TransportSourceSection</value>
+  </data>
+  <data name="DeliveryDestinationSection" xml:space="preserve">
+    <value>DeliveryDestinationSection</value>
+  </data>
+  <data name="CreationDate" xml:space="preserve">
+    <value>CreationDate</value>
+  </data>
+  <data name="DeliveryDate" xml:space="preserve">
+    <value>DeliveryDate</value>
+  </data>
+  <data name="RealTrayNumber" xml:space="preserve">
+    <value>RealTrayNumber</value>
+  </data>
+  <data name="EmptyTrayNumber" xml:space="preserve">
+    <value>EmptyTrayNumber</value>
+  </data>
+  <data name="DetailedDisplay" xml:space="preserve">
+    <value>DetailedDisplay</value>
+  </data>
+  <data name="Section" xml:space="preserve">
+    <value>Section</value>
+  </data>
+  <data name="Failure" xml:space="preserve">
+    <value>Failure</value>
+  </data>
+  <data name="InstructionDate" xml:space="preserve">
+    <value>InstructionDate</value>
+  </data>
+  <data name="CompletionDate" xml:space="preserve">
+    <value>CompletionDate</value>
+  </data>
+  <data name="RealTrayNumber" xml:space="preserve">
+    <value>RealTrayNumber</value>
+  </data>
+  <data name="EmptyTrayNumber" xml:space="preserve">
+    <value>EmptyTrayNumber</value>
+  </data>
+  <data name="PiecesNumber" xml:space="preserve">
+    <value>PiecesNumber</value>
+  </data>
+  <data name="RobotInstructionHistory" xml:space="preserve">
+    <value>RobotInstructionHistory</value>
+  </data>
+  <data name="RealTrayNumber" xml:space="preserve">
+    <value>RealTrayNumber</value>
+  </data>
+  <data name="EmptyTrayNumber" xml:space="preserve">
+    <value>EmptyTrayNumber</value>
+  </data>
+  <data name="Number" xml:space="preserve">
+    <value>Number</value>
+  </data>
+  <data name="SamplingAddress" xml:space="preserve">
+    <value>SamplingAddress</value>
+  </data>
+  <data name="InputAddress" xml:space="preserve">
+    <value>InputAddress</value>
+  </data>
+  <data name="BackButton" xml:space="preserve">
+    <value>BackButton</value>
+  </data>
+  <data name="EquipmentError" xml:space="preserve">
+    <value>EquipmentError</value>
+  </data>
+  <data name="EquipmentSection" xml:space="preserve">
+    <value>EquipmentSection</value>
+  </data>
+  <data name="AbnormalOccurrenceDate" xml:space="preserve">
+    <value>AbnormalOccurrenceDate</value>
+  </data>
+  <data name="Number" xml:space="preserve">
+    <value>Number</value>
+  </data>
+  <data name="AbnormalContent" xml:space="preserve">
+    <value>AbnormalContent</value>
+  </data>
+  <data name="AbnormalOccurrenceDate" xml:space="preserve">
+    <value>AbnormalOccurrenceDate</value>
+  </data>
+  <data name="ChargingDischargingTimer" xml:space="preserve">
+    <value>ChargingDischargingTimer</value>
+  </data>
+  <data name="ChargeDischargeLineNumber" xml:space="preserve">
+    <value>ChargeDischargeLineNumber</value>
+  </data>
+  <data name="OutboundTimer" xml:space="preserve">
+    <value>OutboundTimer</value>
+  </data>
+  <data name="Second" xml:space="preserve">
+    <value>Second</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="StackingDeviceTimer" xml:space="preserve">
+    <value>StackingDeviceTimer</value>
+  </data>
+  <data name="ChargeDischargeWCS" xml:space="preserve">
+    <value>ChargeDischargeWCS</value>
+  </data>
+  <data name="StackingDevice1" xml:space="preserve">
+    <value>StackingDevice1</value>
+  </data>
+  <data name="StackingDevice2" xml:space="preserve">
+    <value>StackingDevice2</value>
+  </data>
+  <data name="StackingDevice3" xml:space="preserve">
+    <value>StackingDevice3</value>
+  </data>
+  <data name="StackingDevice4" xml:space="preserve">
+    <value>StackingDevice4</value>
+  </data>
+  <data name="Question" xml:space="preserve">
+    <value>Question</value>
+  </data>
+  <data name="UpdateStackingDeviceTimerMessage" xml:space="preserve">
+    <value>UpdateStackingDeviceTimerMessage</value>
+  </data>
+  <data name="TransportPort" xml:space="preserve">
+    <value>TransportPort</value>
+  </data>
+  <data name="TransportInstructionsTimer" xml:space="preserve">
+    <value>TransportInstructionsTimer</value>
+  </data>
+  <data name="MainConveyorOccupancy" xml:space="preserve">
+    <value>MainConveyorOccupancy</value>
+  </data>
+  <data name="Timer" xml:space="preserve">
+    <value>Timer</value>
+  </data>
+  <data name="StopTransport" xml:space="preserve">
+    <value>StopTransport</value>
+  </data>
+  <data name="StartTransport" xml:space="preserve">
+    <value>StartTransport</value>
+  </data>
+  <data name="Updated" xml:space="preserve">
+    <value>Updated</value>
+  </data>
+  <data name="UpdateCompletedMessage" xml:space="preserve">
+    <value>UpdateCompletedMessage</value>
+  </data>
+  <data name="DailyProcessingUpdate" xml:space="preserve">
+    <value>DailyProcessingUpdate</value>
+  </data>
+  <data name="UpdateTime" xml:space="preserve">
+    <value>UpdateTime</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="NoLeadDischarge" xml:space="preserve">
+    <value>NoLeadDischarge</value>
+  </data>
+  <data name="NGEmission3" xml:space="preserve">
+    <value>NGEmission3</value>
+  </data>
+  <data name="NGEmission4" xml:space="preserve">
+    <value>NGEmission4</value>
+  </data>
+  <data name="Emit" xml:space="preserve">
+    <value>Emit</value>
+  </data>
+  <data name="NotEmitted" xml:space="preserve">
+    <value>NotEmitted</value>
+  </data>
+  <data name="NotEmittedMessage" xml:space="preserve">
+    <value>NotEmittedMessage</value>
+  </data>
+  <data name="Inoperable" xml:space="preserve">
+    <value>Inoperable</value>
+  </data>
+  <data name="NGEmission34Message" xml:space="preserve">
+    <value>NGEmission34Message</value>
+  </data>
+  <data name="NoUpdateMessage" xml:space="preserve">
+    <value>NoUpdateMessage</value>
+  </data>
+  <data name="HighTemperatureArea" xml:space="preserve">
+    <value>HighTemperatureArea</value>
+  </data>
+  <data name="HotTemperatureAiging" xml:space="preserve">
+    <value>HotTemperatureAiging</value>
+  </data>
+  <data name="Line1to4" xml:space="preserve">
+    <value>Line1to5</value>
+  </data>
+  <data name="HighTemperature" xml:space="preserve">
+    <value>HighTemperature</value>
+  </data>
+  <data name="ＮormalTemperature" xml:space="preserve">
+    <value>ＮormalTemperature</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="Confirmation" xml:space="preserve">
+    <value>Confirmation</value>
+  </data>
+  <data name="AgingSwitchingMessage" xml:space="preserve">
+    <value>AgingSwitchingMessage</value>
+  </data>
+  <data name="AreYouSureMessage" xml:space="preserve">
+    <value>AreYouSureMessage</value>
+  </data>
+  <data name="PLCContorollerDebugViewTitle" xml:space="preserve">
+    <value>PLCContorollerDebugViewTitle</value>
+  </data>
+  <data name="nan" xml:space="preserve">
+    <value>nan</value>
+  </data>
+  <data name="ControlSection" xml:space="preserve">
+    <value>ControlSection</value>
+  </data>
+  <data name="PLCNumber" xml:space="preserve">
+    <value>PLCNumber</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="SignalName" xml:space="preserve">
+    <value>SignalName</value>
+  </data>
+  <data name="DioSection" xml:space="preserve">
+    <value>DioSection</value>
+  </data>
+  <data name="Note" xml:space="preserve">
+    <value>Note</value>
+  </data>
+  <data name="SignalValue" xml:space="preserve">
+    <value>SignalValue</value>
+  </data>
+  <data name="Operation" xml:space="preserve">
+    <value>Operation</value>
+  </data>
+  <data name="Common" xml:space="preserve">
+    <value>Common</value>
+  </data>
+  <data name="TransportationNumber" xml:space="preserve">
+    <value>TransportationNumber</value>
+  </data>
+  <data name="EquipmentName" xml:space="preserve">
+    <value>EquipmentName</value>
+  </data>
+  <data name="FreeBuffers" xml:space="preserve">
+    <value>FreeBuffers</value>
+  </data>
+  <data name="TransportBuffers" xml:space="preserve">
+    <value>TransportBuffers</value>
+  </data>
+  <data name="IncreaseTransportationNumber" xml:space="preserve">
+    <value>IncreaseTransportationNumber</value>
+  </data>
+  <data name="Completion" xml:space="preserve">
+    <value>Completion</value>
+  </data>
+  <data name="UpdateIncreaseTransportationMessage" xml:space="preserve">
+    <value>UpdateIncreaseTransportationMessage</value>
+  </data>
+  <data name="LogoffConfirmation" xml:space="preserve">
+    <value>LogoffConfirmation</value>
+  </data>
+  <data name="LogoffMessage" xml:space="preserve">
+    <value>LogoffMessage</value>
+  </data>
+</root>
